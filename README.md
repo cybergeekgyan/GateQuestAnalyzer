@@ -2,7 +2,7 @@
 
 ## Overview
 
-GateQuest Analyzer is a deep learning model designed to analyze past years' question papers of the Gate computer science exam. The model aims to discover patterns, topics, and subtopics that are most frequently asked in the exams. It provides valuable insights into the recurring themes and assists students in focusing their preparation on high-priority areas.
+The GateQuest Analyzer is an advanced deep learning-based tool designed to analyze and decode past years' question papers from the Gate computer science exam. This innovative project aims to identify recurring patterns, main topics, and subtopics that frequently appear in the exam, empowering students with valuable insights for effective exam preparation.
 
 ## Features
 
@@ -11,6 +11,20 @@ GateQuest Analyzer is a deep learning model designed to analyze past years' ques
 - Discover patterns and recurring question types.
 - Generate new questions based on specific topics and subtopics.
 - Evaluate the difficulty level of questions using a ranking system.
+
+## Key Features:
+
+- [Comprehensive Analysis](): The GateQuest Analyzer efficiently processes a diverse dataset of past question papers, extracting critical information on topics and subtopics.
+
+- [Intelligent Question Generation](): Leveraging cutting-edge deep learning models, the project can generate new questions related to specific topics and subtopics, providing students with ample practice material.
+
+- [Difficulty Ranking](): The Analyzer incorporates a ranking system to evaluate the difficulty level of questions, enabling learners to focus on areas requiring more attention.
+
+- [User-Friendly Interface](): With a user-friendly interface, the tool makes it easy for students to interact and explore the insights offered by the analysis.
+
+- [Data-Driven Insights](): By drawing on extensive question data, the GateQuest Analyzer empowers students with data-driven insights, allowing them to optimize their preparation strategies and excel in the Gate computer science exam.
+
+This project promises to be a valuable asset for Gate aspirants, guiding them towards targeted and efficient study plans by shedding light on the exam's prominent topics and question patterns. With its intelligent question generation and analysis capabilities, the GateQuest Analyzer aims to enhance students' readiness, empowering them to tackle the challenging Gate exam with confidence.
 
 ## Dataset
 
